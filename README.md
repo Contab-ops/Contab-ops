@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Contab-ops
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Vallala Srinivas
+- 👀 I’m interested in FullStack-Web Devlopment
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me cnucse01@gmail.com
 
 <!---
